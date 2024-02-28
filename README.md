@@ -29,6 +29,8 @@ Proyecto web adopcion animal
 - Visual Studio Code
 - XAMP
 - Android Studio
+- Figma
+- Notion
 
 ## Estructura y componentes
 Para cada página he creado un page y si su contenido puede ser reutilizable he crado un componente asociado a esta 
