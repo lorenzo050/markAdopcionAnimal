@@ -64,6 +64,10 @@ He usado la api de https://dog.ceo/dog-api/ para conseguir las fotos de los perr
 Ventana emergente mediante AlertController
 ![img](/imgCanva/img12.png)
 
+## LocalStorage
+LocalStorage usado para guardar el inicio de sesion y sacar datos de usuario
+![img](/imgCanva/localstorage.png)
+
 # Estilos e interfaces visuales
 Ejemplo estilos card principal
 ```scss
